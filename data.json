@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12 16:44 CT",
- "generated_iso": "2026-11-12T16:44:51.152720-06:00",
+ "generated": "2026-11-12 17:22 CT",
+ "generated_iso": "2026-11-12T17:22:33.701353-06:00",
  "prices_as_of": "2026-11-12 close",
  "price_source": "session close 2026-11-12",
  "session_date": "2026-11-12",
@@ -1419,6 +1419,6 @@
    "skip_flag_effect": 372.81,
    "note": "mark-to-latest close; skipped buys held as cash (0%)"
   },
-  "generated": "2026-11-12T16:44:53-06:00"
+  "generated": "2026-11-12T17:22:36-06:00"
  }
 }
